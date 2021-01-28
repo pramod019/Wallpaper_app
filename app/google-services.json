@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "974029765203",
+    "project_id": "fir-wallpaper-8e010",
+    "storage_bucket": "fir-wallpaper-8e010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974029765203:android:edef02e60258e2bd5d24a6",
+        "android_client_info": {
+          "package_name": "com.example.firebasewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974029765203-kpm1h2vp9dsqgedc95c407aj4u278t31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOl2D-c3BNWv7Km4JzSEbeXGX3rem74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974029765203-kpm1h2vp9dsqgedc95c407aj4u278t31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974029765203:android:37186a887e6a5acd5d24a6",
+        "android_client_info": {
+          "package_name": "com.pramodk.fullhdanimewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974029765203-kpm1h2vp9dsqgedc95c407aj4u278t31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOl2D-c3BNWv7Km4JzSEbeXGX3rem74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974029765203-kpm1h2vp9dsqgedc95c407aj4u278t31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
